@@ -10,11 +10,13 @@ First, you will examine recent literature, emerging trends, and developments in 
 Second, to conduct an empirical case study of human–AI collaboration in practice you will engage directly with an undergraduate student project team in SENG480B course, and which runs concurrently this term. Your **tutorials are joint with their lectures on Monday and Thursday mornings at 8:30 -9:20 am.** The undergraduate SENG480B team will be working on a real-world project involving AI-enabled technology for social good. Through this study, you will investigate human–AI collaboration in practice, including the changing role of students as software engineers, AI as a team member, and the conditions that support meaningful human agency and alignment between technology and stakeholder values. Your analysis will consider these issues during the technology design and development process, as well as their implications for how the technology is used after deployment. You will also provide research-informed recommendations and mentor the undergraduate team in conducting their project.
 
 #### Class Time
-**Lecture** time will be devoted to discussing readings and core concepts in human–AI collaboration. **Tutorials** coincide with the undergraduate students’ class time, allowing you to acquire and maintain current project information, as well as collect data for your research case study. Your engagement during the tutorial with the undergads include: 
+**Lecture** time will be devoted to discussing readings and core concepts in human–AI collaboration, as well as updates on the research in the case study. 
 
-- observing sprint demos and providing feedback on project progress, alignment with stakeholder needs, and the team’s use and evaluation of AI
-- facilitating their sprint planning activities (involves planning AI usage)
-- facilitating their sprint retro activities (involves reflecting on AI usage)
+**Tutorials** coincide with the undergraduate students’ class time, allowing you to acquire and **maintain current project knowledge**, as well as **collect data** for your research case study. Your engagement during the tutorials with the undergads include: 
+
+- observing **sprint demos** and providing feedback on project progress, alignment with stakeholder needs, and the team’s use and evaluation of AI
+- facilitating their **sprint planning** activities (involves planning AI usage)
+- facilitating their **sprint retro** activities (involves reflecting on AI usage)
 - attending shared guest lectures from industry experts
 - helping the team identify, evaluate, and apply relevant research to questions arising in their project
 - discussing project decisions and unresolved questions, including how community partner knowledge and stakeholder values inform the team’s approach
