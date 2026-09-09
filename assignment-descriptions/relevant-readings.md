@@ -1,4 +1,4 @@
-# CSC586C Related Work Assignment
+# CSC586C Required Reading Summaries 
 
 **Deliverable:** A spreadsheet summarizing scholarly literature, identifying connections between studies, and reflecting on its relevance to your research (one paper per row). Aim for **around 20 papers in total, including the core course readings and several additional papers you identify independently**.
 
