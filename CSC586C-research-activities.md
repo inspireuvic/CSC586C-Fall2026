@@ -18,6 +18,7 @@ Second, to conduct an empirical case study of human–AI collaboration in practi
 - facilitating their **sprint planning** activities (involves planning AI usage)
 - facilitating their **sprint retro** activities (involves reflecting on AI usage)
 - attending shared guest lectures from industry experts
+- provide mentorship and guidance on responsible human-AI collaboration practices
 - helping the team identify, evaluate, and apply relevant research to questions arising in their project
 - discussing project decisions and unresolved questions, including how community partner knowledge and stakeholder values inform the team’s approach
 - following up on earlier feedback and recommendations to understand what the team changed, what remains unresolved, and why.
