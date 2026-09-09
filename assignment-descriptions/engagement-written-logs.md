@@ -31,7 +31,7 @@ Ground your reflection in concrete examples and distinguish observations from in
 
 Assessment will emphasize the depth of critical reflection, application of course concepts, integration of relevant research, and clarity of writing. The feedback summary should be concise, specific, and consistent with what you communicated to the team. Include in-text citations and a reference list using a consistent academic citation style; scholarly course readings may count toward the research requirement.
 
-# CSC 586C: Sprint Demo Reflection Log Rubric
+# Marking Rubric
 
 Each log is assessed out of **20 marks**. Integration of relevant research and application of course concepts together account for **12 marks (60%)**.
 
