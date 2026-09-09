@@ -6,7 +6,7 @@
 
 This assignment intends to give you a overview of recent research in Human-AI Collaboratio and help you develop the research foundation for your empirical case study in CSC586C. Your reading should inform your investigation of responsible human–AI collaboration in software development.
 
-For each paper, explain both what it contributes and how you might use that contribution. Consider how it could shape your research questions, guide your methods, help you interpret observations, or challenge your assumptions. You must also identify relationships between papers so that your spreadsheet develops a connected understanding of the literature.
+For each paper, explain both what it contributes and how you might use that contribution. Consider how it could shape your understanding of human-AI collaboration, research questions, guide your methods, help you interpret observations, or challenge your assumptions. You must also identify relationships between papers so that your spreadsheet develops a connected understanding of the literature.
 
 ## Selecting Your Readings
 
