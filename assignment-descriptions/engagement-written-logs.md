@@ -17,7 +17,7 @@ Briefly summarize the key feedback you communicated to the undergraduate team. I
 
 **2. Critical reflection on responsible human–AI collaboration**
 
-Devote the majority of your log to examining specific AI-related decisions, or practices in the sprint demo or accompanying discussion. Briefly describe your observations, then analyze it using **concepts discussed in class and at least one relevant scholarly source**.
+Devote the majority of your log to examining specific AI-related decisions, or practices in the sprint demo or accompanying discussion. Briefly describe your observations, then analyze it using **concepts discussed in class, using relevant scholarly sources**.
 
 Depending on the observation, your reflection might examine how students distributed work and decision-making authority between themselves and AI; evaluated or challenged AI outputs; maintained accountability for decisions; or incorporated community partner knowledge into AI-supported work. You may also consider implications for learning, teamwork, privacy, bias, or stakeholder needs. Select the issues most relevant to your observation rather than attempting to address every topic.
 
