@@ -27,4 +27,4 @@ Second, to conduct an empirical case study of human–AI collaboration in practi
 #### Your Role 
 **Your role in relation to the undergraduate project is that of a researcher and research consultant.** You are expected to study the team’s practices and support its research and decision-making. You must not contribute code, documentation, or other project artifacts unless doing so is necessary for your research and you have received permission from the teaching team. 
 
-Together, these components will prepare you to use research to inform the design, development, and governance of AI-enabled technologies that support human flourishing and the public good while preserving meaningful human agency.
+
