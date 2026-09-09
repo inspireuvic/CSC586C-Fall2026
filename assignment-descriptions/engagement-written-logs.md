@@ -5,7 +5,8 @@
 
 **Purpose**
 
-As part of CSC 586C, you will observe the SENG 480B undergraduate teams’ sprint demos and critically reflect on their development practices through the lens of responsible human–AI collaboration. The main purpose of each written log is to connect your observations to **concepts discussed in class and relevant research**, developing your understanding of responsible AI use in software engineering.
+As part of CSC 586C, you will engage with SENG 480B undergraduate teams’, specifically by giving feedback in sprint demos and facilitating sprint retros. At the end of their sprints, you are asked to produce a written log to connect your observations of their work to concepts in CSC586C.  You are expected to critically reflect on their development practices through the lens of responsible human–AI collaboration. 
+
 
 You are expected to communicate your project feedback directly to the undergraduate team before submitting each log. The feedback section should therefore provide only a brief summary of what you have already shared.
 
