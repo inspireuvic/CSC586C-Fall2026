@@ -46,9 +46,11 @@ The reflection columns should explain how each paper informs your own research.
 - **Bigger ideas and assumptions:** Which theories, frameworks, broader arguments, or assumptions influence your thinking? Explain whether you would adopt, adapt, question, or test them.
 - **Critical assessment and limits of application:** What makes the paper’s contribution useful or less applicable to your study? Consider its evidence, context, limitations, and assumptions.
 
-Be specific. **“I could use their interview method” is too general.** Explain which aspect of the method you would use, what it would help you investigate, and how you would adapt it to your case study. If you are not borrowing something from this paper, you can simply put N/A. Note that putting N/A too many times suggests this paper may not be relevant. 
+Be specific. **“I could use their interview method” is too general.** Explain which aspect of the method you would use, what it would help you investigate, and how you would adapt it to your case study. 
 
-A paper does not need to contribute equally to every borrowing category. Where a category does not apply, briefly explain this rather than forcing a connection. Every paper should nevertheless include substantive reflection on its overall relevance and limitations.
+
+
+A paper does not need to contribute equally to every borrowing category. Where a category does not apply, simply put NA rather than forcing a connection. Every paper should nevertheless include substantive reflection on its overall relevance and limitations. Thus, if you have put NA many times, it is possible you have not chosen a paper that will adequately support your research endeavour. 
 
 ## Identifying Relationships Between Papers
 
