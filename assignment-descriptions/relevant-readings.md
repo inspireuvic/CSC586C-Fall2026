@@ -77,7 +77,7 @@ Read beyond the abstract so you can accurately explain each paper’s contributi
 Use concise paragraphs or bullet points within spreadsheet cells. The emphasis is on thoughtful selection, accurate understanding, meaningful connections between papers, and specific reflection on how the literature informs your research.
 
 
-## In-Class Presentation of Related Work
+## In-Class Presentation of Readings
 
 After submitting your related work spreadsheet, you will present a summary of your review in class. Your presentation should explain what the literature reveals about your research topic and how it is shaping your case study in CSC586C.
 
