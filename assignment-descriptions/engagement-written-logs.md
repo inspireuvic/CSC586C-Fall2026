@@ -1,6 +1,6 @@
-**CSC 586C: Sprint Demo Reflection Logs**
+## CSC 586C: Sprint Demo Reflection Logs
 
-**Submission:** Five individual logs, one following each undergraduate sprint demo. Dates are on the class schedule/Brightspace. 
+**Submission:** Five individual logs, one following each undergraduate sprint demo. Due dates for the logs are on the class schedule/Brightspace. 
 **Length:** Approximately 1-1.5 pages per log (excluding references).
 
 **Purpose**
