@@ -30,7 +30,7 @@ Second, to conduct an empirical case study of human–AI collaboration in practi
 
 
 
-#### SENG480B Course Structure
+## SENG480B Course Structure
 
 SENG480B is organized around **four project sprints**, followed by a wrap-up period for project handoff and showcasing the team’s work. Each sprint has a particular emphasis:
 
