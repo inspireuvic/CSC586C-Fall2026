@@ -7,7 +7,7 @@ First, you will examine recent literature, emerging trends, and developments in 
 
 
 ### 2. Empirical Case Study
-Second, to conduct an empirical case study of human–AI collaboration in practice you will engage directly with an undergraduate student project team in SENG480B course, and which runs concurrently this term. Your **tutorials are joint with their lectures on Monday and Thursday mornings at 8:30 -9:20 am.** The undergraduate SENG480B team will be working on a real-world project involving AI-enabled technology for social good. Through this study, you will investigate human–AI collaboration in practice, including the changing role of students as software engineers, AI as a team member, and the conditions that support meaningful human agency and alignment between technology and stakeholder values. Your analysis will consider these issues during the technology design and development process, as well as their implications for how the technology is used after deployment. You will also provide research-informed recommendations and mentor the undergraduate team in conducting their project.
+Second, to conduct an empirical case study of human–AI collaboration in practice you will engage directly with an undergraduate student project team in SENG480B course, and which runs concurrently this term. Your **tutorials are joint with their lectures on Monday and Thursday mornings at 8:30 -9:20 am.** The undergraduate SENG480B team will be working on a **real-world, sprint-based** project involving AI-enabled technology for social good. Through this study, you will investigate human–AI collaboration in practice, including the changing role of students as software engineers, AI as a team member, and the conditions that support meaningful human agency and alignment between technology and stakeholder values. Your analysis will consider these issues during the technology design and development process, as well as their implications for how the technology is used after deployment. You will also provide research-informed recommendations and mentor the undergraduate team in conducting their project.
 
 #### Class Time
 **Lecture** time will be devoted to discussing readings and core concepts in human–AI collaboration, as well as updates on the research in the case study. 
@@ -26,5 +26,25 @@ Second, to conduct an empirical case study of human–AI collaboration in practi
 
 #### Your Role 
 **Your role in relation to the undergraduate project is that of a researcher and research consultant.** You are expected to study the team’s practices and support its research and decision-making. You must not contribute code, documentation, or other project artifacts unless doing so is necessary for your research and you have received permission from the teaching team. 
+
+
+
+
+#### SENG480B Course Structure
+
+SENG480B is organized around **four project sprints**, followed by a wrap-up period for project handoff and showcasing the team’s work. Each sprint has a particular emphasis:
+
+- **Sprint 1:** Scope and requirements
+- **Sprint 2:** AI and values in development
+- **Sprint 3:** Agentic development
+- **Sprint 4:** Validation towards a minimum viable product (MVP)
+
+Each sprint includes **planning, a project demo, a retrospective, and peer review**. Teams maintain a **Sprint Decision Record (SDR)** throughout each sprint, documenting important project decisions and their use and evaluation of AI. They also maintain a **Requirements and Values document** and develop a **Technology–Value Alignment document** to connect technical decisions with stakeholder values.
+
+**Community partner engagement continues throughout the project.** Teams are expected to actively involve their partners in requirements elicitation, co-design, and validation, beyond the scheduled meetings shown below.
+
+For your case study, this recurring structure provides opportunities to observe how the team’s practices, assumptions, and decisions evolve over time, including how they respond to feedback, evaluate AI contributions, and incorporate community partner knowledge.
+
+![SENG480B and CSC586C sprint overview showing sprint themes, recurring activities, deliverables, and community partner engagement](SENG480B%20Fall%202026%20-%20Sprint%20Overview.png)
 
 
