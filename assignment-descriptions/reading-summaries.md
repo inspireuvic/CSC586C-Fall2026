@@ -44,7 +44,6 @@ The reflection columns should explain how each paper informs your own research.
 - **Methods I could borrow or adapt:** Which data collection techniques, measures, research designs, or analysis approaches could you use? Explain what you would adopt, what you would change, and why.
 - **Concepts and terminology I could use:** Which concepts or definitions could help you describe and analyze what you observe? Explain how you would use them.
 - **Bigger ideas and assumptions:** Which theories, frameworks, broader arguments, or assumptions influence your thinking? Explain whether you would adopt, adapt, question, or test them.
-- **Critical assessment and limits of application:** What makes the paper’s contribution useful or less applicable to your study? Consider its evidence, context, limitations, and assumptions.
 
 Be specific. **“I could use their interview method” is too general.** Explain which aspect of the method you would use, what it would help you investigate, and how you would adapt it to your case study. 
 
