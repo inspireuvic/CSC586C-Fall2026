@@ -18,11 +18,11 @@ Additional papers may come from software engineering or other relevant fields, p
 
 Use the following columns, with one paper per row. In **Reading type**, indicate **Core** or **Independently selected**. Use the DOI or author–year citation to refer to other papers in the table.
 
-| Reading type | Full reference | Link or DOI | Article abstract | Key research questions or objectives | Key methods | Key findings or arguments | Relevance to my research | Methods I could borrow or adapt | Concepts and terminology I could use | Bigger ideas and assumptions | Critical assessment and limits of application | Relationships to other papers in this table |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | | | | | |
-| | | | | | | | | | | | | |
-| | | | | | | | | | | | | |
+| Reading type | Full reference | Link or DOI | Article abstract | Key research questions or objectives | Key methods | Key findings or arguments | Relevance to my research | Methods I could borrow or adapt | Concepts and terminology I could use | Bigger ideas and assumptions | Relationships to other papers in this table |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
+| | | | | | | | | | | | |
 
 Add rows as needed for your selected readings.
 
