@@ -32,7 +32,9 @@ Second, to conduct an empirical case study of human–AI collaboration in practi
 
 ## SENG480B Course Structure
 
-SENG480B is organized around **four project sprints**, followed by a wrap-up period for project handoff and showcasing the team’s work. Each sprint has a particular emphasis:
+To succeed in CSC586C you must understand the structure of SENG480B. This is because the undergraduate students are working on projects on which you are treating as your research case study.
+
+SENG480B is organized around **four main project sprints**, preceded by a prep sprint for intros, and followed by a wrap-up period for project handoff and showcasing the team’s work. Each sprint has a particular emphasis:
 
 - **Sprint 1:** Scope and requirements
 - **Sprint 2:** AI and values in development
