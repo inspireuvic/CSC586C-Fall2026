@@ -3,7 +3,7 @@
 The course consists of two complementary and interconnected components: critical engagement with research on human–AI collaboration and an empirical case study of that collaboration in practice.
 
 ### 1. Engagement with Literature
-First, you will examine recent literature, emerging trends, and developments in AI-enabled technology innovation, considering how AI is changing the activities, roles, relationships, and outcomes involved in technology development. Particular attention will be given to the shifting boundaries of human and machine agency and what these changes mean for value-sensitive and socially responsible innovation. **Core readings** will be provided through the **course schedule**. You are also expected to identify and critically engage with **additional research papers **that support your research direction.
+First, you will examine recent literature, emerging trends, and developments in AI-enabled technology innovation, considering how AI is changing the activities, roles, relationships, and outcomes involved in technology development. Particular attention will be given to the shifting boundaries of human and machine agency and what these changes mean for value-sensitive and socially responsible innovation. **Core readings** will be provided through the **course schedule**. You are also expected to identify and critically engage with **additional research papers** that support your research direction.
 
 
 ### 2. Empirical Case Study
