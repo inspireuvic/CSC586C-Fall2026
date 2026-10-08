@@ -35,7 +35,7 @@ Rely on your reading summaries work here! Write a draft related work section usi
 
 Go beyond a sequence of individual paper summaries. Show how the studies relate to one another and how your proposed research builds on, extends, or challenges existing knowledge. Support your discussion with citations to the original sources.
 
-### 3. Data Collection Plan
+### 4. Data Collection Plan
 
 Describe and justify the methods you will use. Distinguish clearly between **who or what you will study**, **how you will collect data**, and **what data you will collect**.
 
@@ -55,7 +55,7 @@ For each data collection method, specify:
 
 Include draft interview questions, survey items, observation prompts etc. These may be included in an appendix. 
 
-### 4. Analysis Plan
+### 5. Analysis Plan
 
 Explain how you will turn the collected data into an answer to each research question.
 
@@ -68,7 +68,7 @@ Explain how you will turn the collected data into an answer to each research que
 
 Please note that naming a method alone is insufficient. Show how you will apply it to your particular data and research question(s).
 
-### 5. Expected Contribution
+### 6. Expected Contribution
 
 Describe the knowledge or practical value your study is intended to produce. Possible contributions include but are not limited to a framework, a set of recommendations, design principles, an account of a process or experience, or evidence that extends or challenges prior findings.
 
@@ -78,6 +78,6 @@ Describe the knowledge or practical value your study is intended to produce. Pos
 
 Distinguish your intended contribution from assumed results. (For example, you may aim to develop recommendations, but their content should emerge from the evidence rather than be predetermined). 
 
-## References and Overall Expectations
+## References
 
 Include a reference list using a consistent academic citation style. Cite the research and methodological sources that inform your proposal.
