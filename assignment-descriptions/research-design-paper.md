@@ -21,7 +21,7 @@ Your question(s) should be focused, feasible within the course, and answerable u
 
 ### 2. Draft Related Work and Study Motivation
 
-Write a draft related work section using your reading summaries and related work activities as a foundation. Develop these materials into a connected argument that motivates your study.
+Rely on your reading summaries work here! Write a draft related work section using your reading summaries and related work activities as a foundation. Develop these materials into a connected argument that motivates your study.
 
 - Organise the literature around relevant themes, concepts, findings, or methodological approaches.
 - Compare and synthesise studies, explaining where their findings agree, differ, or leave questions unresolved.
@@ -37,20 +37,19 @@ Describe and justify the methods you will use. Distinguish clearly between **who
 
 #### Study Approach and Participants
 
-- Identify your overall study approach, such as a case study, interview study, survey, experiment, or mixed-methods study, and explain why it fits your question(s).
+- Describe your case study approach. 
 - Describe the research setting and relevant participant characteristics or roles.
-- Explain how participants will be selected and recruited, your intended sample size or range, and the rationale for these choices.
 - Identify your unit of analysis, such as an individual, team, decision, interaction, or artifact. If your study does not involve participants, describe how cases or artifacts will be selected instead.
 
 #### Collection Procedures and Data
 
-For each method or data source, specify:
+For each data collection method, specify:
 
 - **How:** The collection procedure, including what participants will be asked to do, when collection will occur, and how information will be recorded.
 - **What:** The exact data you intend to collect, such as interview transcripts, responses to specified survey items, observation notes, decision rationales, AI interaction logs, or versions of project artifacts.
 - **Why:** Which research question(s) these data will help answer and what evidence they will provide.
 
-Include draft interview questions, survey items, observation prompts, or artifact selection criteria, as appropriate. These may be included in an appendix. Briefly address consent, confidentiality, data handling, and any role relationships that could influence participation or responses.
+Include draft interview questions, survey items, observation prompts etc. These may be included in an appendix. 
 
 ### 4. Analysis Plan
 
@@ -67,17 +66,14 @@ Please note that naming a method alone is insufficient. Show how you will apply 
 
 ### 5. Expected Contribution
 
-Describe the knowledge or practical value your study is intended to produce. Possible contributions include an explanatory framework, a set of recommendations, design principles, an account of a process or experience, or evidence that extends or challenges prior findings.
+Describe the knowledge or practical value your study is intended to produce. Possible contributions include but are not limited to a framework, a set of recommendations, design principles, an account of a process or experience, or evidence that extends or challenges prior findings.
 
 - State the intended contribution and its connection to the gap identified in your related work.
 - Identify who could use the contribution and how.
-- Explain how your planned data and analysis could support it.
 - Acknowledge the likely boundaries of the contribution given your study's scope.
 
-Distinguish your intended contribution from assumed results. For example, you may aim to develop recommendations, but their content should emerge from the evidence rather than be predetermined.
+Distinguish your intended contribution from assumed results. (For example, you may aim to develop recommendations, but their content should emerge from the evidence rather than be predetermined). 
 
 ## References and Overall Expectations
 
 Include a reference list using a consistent academic citation style. Cite the research and methodological sources that inform your proposal.
-
-The paper should present a coherent argument: the related work motivates the research question(s), the data collection plan provides relevant evidence, the analysis plan explains how that evidence will be interpreted, and the expected contribution follows from what the study can reasonably establish. Justify your choices, be explicit about unresolved design decisions, and propose a study that is feasible within the available time and access.
