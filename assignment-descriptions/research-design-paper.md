@@ -78,6 +78,10 @@ Describe the knowledge or practical value your study is intended to produce. Pos
 
 Distinguish your intended contribution from assumed results. (For example, you may aim to develop recommendations, but their content should emerge from the evidence rather than be predetermined). 
 
+### 7. Positionality Statement 
+
+If it is necessary, include a positionality statement if the interpretations and analysis of your data is impacted by your position (e.g. gender, race, experiences or any other personal characteristics)  as a researcher. 
+
 ## References
 
 Include a reference list using a consistent academic citation style. Cite the research and methodological sources that inform your proposal.
