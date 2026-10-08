@@ -19,15 +19,19 @@ Introduce the problem or phenomenon you intend to study and the context in which
 
 Your question(s) should be focused, feasible within the course, and answerable using the evidence you plan to collect.
 
-### 2. Draft Related Work and Study Motivation
+### 2. Background and Study Motivation
 
-Rely on your reading summaries work here! Write a draft related work section using your reading summaries and related work activities as a foundation. Develop these materials into a connected argument that motivates your study.
+ Make the **“so what?”** explicit: why does your research gap matter, and what would be gained by addressing it?
+  
+
+### 3. Literature Review
+
+Rely on your reading summaries work here! Write a draft related work section using your reading summaries and related work activities as a foundation.
 
 - Organise the literature around relevant themes, concepts, findings, or methodological approaches.
 - Compare and synthesise studies, explaining where their findings agree, differ, or leave questions unresolved.
 - Identify the specific gap, tension, limitation, or unanswered question your study addresses.
 - Explain how prior work informs your research question(s) and study design.
-- Make the **“so what?”** explicit: why does this gap matter, and what would be gained by addressing it?
 
 Go beyond a sequence of individual paper summaries. Show how the studies relate to one another and how your proposed research builds on, extends, or challenges existing knowledge. Support your discussion with citations to the original sources.
 
