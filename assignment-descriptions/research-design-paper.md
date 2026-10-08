@@ -84,4 +84,4 @@ If it is necessary, include a positionality statement if the interpretations and
 
 ## References
 
-Include a reference list using a consistent academic citation style. Cite the research and methodological sources that inform your proposal.
+Include a reference list using a consistent academic citation style. Be very aware that Generative AI is rarely reliable when it comes to generating references. 
